@@ -15,4 +15,6 @@ Este repositorio se encargará del desarrollo de la app que se comunicará con e
 Las principales serán: 
  - Android Studio
  - sqlitebrowser
- - y alguna más que se necesite
+ - Azure
+ - Nodejs
+ - y alguna más que se necesite.
