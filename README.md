@@ -26,7 +26,7 @@ Las principales serán:
 Como sistema de test he usado moncha, ya que lo conocia de haberlo usado para uno de los ejercicios del tema.
 Por ahora solo he realizado una comprobación para que no se puede introducir un nombre con menos de 3 caracteres para ser añadido. En un futuro se añadiran más test a la aplicación. Aquí se puede ver el código:
 
-![.travis.yml](https://www.dropbox.com/s/8qtl4jypm9t3vq7/hito2.3.png?dl=0)
+![.travis.yml](https://www.dropbox.com/s/8qtl4jypm9t3vq7/hito2.3.png?dl=1)
 
 
 ##Integración continua
