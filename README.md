@@ -1,5 +1,6 @@
 # Proyecto OpenOrder IV
 
+#Primer hito
 ##Integrantes del proyecto
 Este repositorio es de **Jose Ignacio Recuerda Cambil**, aunque el grupo esta formado también por:
 - Antonio Miguel Pozo Cámara
@@ -18,3 +19,26 @@ Las principales serán:
  - Azure
  - Nodejs
  - y alguna más que se necesite.
+
+
+#Segundo hito
+##Sistema de test
+Como sistema de test he usado moncha, ya que lo conocia de haberlo usado para uno de los ejercicios del tema.
+Por ahora solo he realizado una comprobación para que no se puede introducir un nombre con menos de 3 caracteres para ser añadido. En un futuro se añadiran más test a la aplicación. Aquí se puede ver el código:
+
+![.travis.yml](https://www.dropbox.com/s/8qtl4jypm9t3vq7/hito2.3.png?dl=0)
+
+
+##Integración continua
+Para la integración continua de mi proyecto he usado [Travis](https://travis-ci.org).
+
+Para empezar tenemos que registrarnos en la página desde el mismo git. Le damos permisos para que pueda acceder a nuestros proyectos de git y así lanzar la aplicación.
+Una vez hecho esto creo el fichero llamado ".travis.yml" y lo añado a la carpeta raiz del repositorio.
+
+El fichero contiene lo siguiente:
+
+![.travis.yml]((https://www.dropbox.com/s/556agqlr8n9figk/hito2.1.png?dl=1)
+
+Seguidamente inicio el test al repositorio de la aplicación y lo realiza correctamente como podemos ver en la siguiente captura:
+
+![build passing]((https://www.dropbox.com/s/swj3hbol024xu7m/hito2.2.png?dl=1)
