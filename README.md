@@ -24,6 +24,13 @@ Las principales serán:
 #Segundo hito
 ##Sistema de test
 Como sistema de test he usado moncha, ya que lo conocia de haberlo usado para uno de los ejercicios del tema.
+Empiezo instalando moncha con el comando "sudo npm install -g mocha" .Creo un directorio con el nombre "test" y dentro de este el archivo que se encargará de comprobar que la aplicación carga correctamente.
+El contenido de test.js es el siguiente:
+
+![test.js](https://www.dropbox.com/s/zyxh53hsaij1pmi/hito2.4.png?dl=1)
+
+Finalmente lo ejecuto con el comando "mocha test/test.js"
+
 Por ahora solo he realizado una comprobación para que no se puede introducir un nombre con menos de 3 caracteres para ser añadido. En un futuro se añadiran más test a la aplicación. Aquí se puede ver el código:
 
 ![.travis.yml](https://www.dropbox.com/s/8qtl4jypm9t3vq7/hito2.3.png?dl=1)
