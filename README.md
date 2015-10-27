@@ -9,7 +9,7 @@ Este repositorio es de **Jose Ignacio Recuerda Cambil**, aunque el grupo esta fo
 ##Breve descripción del proyecto OpenOrder
 Este proyecto llevará la gestión de pedidos de una pequeña o mediana empresa mediante una aplicación cliente-servidor. La API del servidor se encargará de permitir al usuario hacer pedidos y que todo ellos queden registrados en una Base de datos. 
 
-##Descripción de este respositorio
+##Descripción de este repositorio
 Este repositorio se encargará de la gestión de los pedidos que los usuarios harán a la empresa. Almacenará en una base de datos todos los datos necesarios tanto del cliente como del producto que se está solicitando.
 
 ##Servicios necesarios
