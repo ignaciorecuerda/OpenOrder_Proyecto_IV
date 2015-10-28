@@ -13,7 +13,7 @@ Este proyecto llevará la gestión de pedidos de una pequeña o mediana empresa.
 Este repositorio se encargará de la gestión de los pedidos que los usuarios harán a la empresa. Almacenará en una base de datos todos los datos necesarios para que el pedido quede registrado correctamente.
 
 ##Servicios necesarios
-En principio será necesario un servicio de base de datos de SQL para poder almacenar y gestionar los pedidos como que se realicen.
+En principio será necesario un servicio de base de datos de SQL para poder almacenar y gestionar los pedidos que se realicen.
 
 ##Este proyecto se ha inscrito en el certamen de proyectos libres de la UGR.
 
