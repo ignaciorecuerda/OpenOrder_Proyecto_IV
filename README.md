@@ -45,3 +45,7 @@ El fichero contiene lo siguiente:
 Seguidamente inicio el test al repositorio de la aplicación y lo realiza correctamente como podemos ver en la siguiente captura:
 
 ![build passing](https://www.dropbox.com/s/swj3hbol024xu7m/hito2.2.png?dl=1)
+
+Añado el fichero makefile para así automatizar los test. Dicho fichero contiene lo siguiente:
+
+![fichero makefile](https://www.dropbox.com/s/b3lw6xda2r4jtk6/hito2.5.png?dl=1)
